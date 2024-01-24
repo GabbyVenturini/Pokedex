@@ -9,3 +9,9 @@ Este é um site que funciona como uma pokédex, ele exibe as seguintes informaç
 - Imagem
 - Nome
 - Tipo
+
+## :computer: Tecnologias usadas:
+
+- `Javascript`
+- `HTML`
+- `CSS`
